@@ -45,7 +45,7 @@
 ## Screenshots
 
 **Signup**  
-![Library Signup](https://i.imgur.com/W3hpWAn.png[/img])
+![Library Signup](https://i.imgur.com/GGgNCPJ.png[/img])
 
 **Admin Login**  
 ![Admin Login](https://i.imgur.com/sluzBMJ.png[/img])
