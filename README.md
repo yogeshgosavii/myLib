@@ -44,14 +44,19 @@
 
 ## Screenshots
 
-**Homepage**  
-![Library Homepage](https://via.placeholder.com/800x400?text=Library+Homepage)
+**Signup**  
+![Library Signup](https://i.imgur.com/W3hpWAn.png[/img])
+
+**Admin Login**  
+![Admin Login](https://i.imgur.com/sluzBMJ.png[/img])
+ Note - Initially the username and password of the admin is same as the username and password you create the account
 
 **Admin Dashboard**  
-![Admin Dashboard](https://via.placeholder.com/800x400?text=Admin+Dashboard)
+![Admin Dashboard](https://i.imgur.com/sWEQg8v.png[/img])
 
 **Book Search**  
-![Book Search](https://via.placeholder.com/800x400?text=Book+Search)
+![Book Search](https://i.imgur.com/sWEQg8v.png[/img])
+Note - The students accounts are created by admin and are assigned to the sudents for them to borrow the books 
 
 ## How to Run the Project Locally
 
