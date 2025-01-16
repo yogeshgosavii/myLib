@@ -52,7 +52,7 @@
  Note - Initially the username and password of the admin is same as the username and password you create the account
 
 **Admin Dashboard**  
-![Admin Dashboard](https://i.imgur.com/sWEQg8v.png[/img])
+![Admin Dashboard](https://i.imgur.com/w29Wixt.png[/img])
 
 **Book Search**  
 ![Book Search](https://i.imgur.com/sWEQg8v.png[/img])
