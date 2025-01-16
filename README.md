@@ -55,7 +55,7 @@
 ![Admin Dashboard](https://i.imgur.com/w29Wixt.png[/img])
 
 **Book Search**  
-![Book Search](https://i.imgur.com/sWEQg8v.png[/img])
+![Book Search](https://i.imgur.com/PZAQi63.png[/img])
 Note - The students accounts are created by admin and are assigned to the sudents for them to borrow the books 
 
 ## How to Run the Project Locally
